@@ -1,1 +1,3 @@
 # shariktool
+
+free and opensource
